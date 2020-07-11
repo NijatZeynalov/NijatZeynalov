@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Certified Tensorflow Developer and the first year master student at @unitartu. I am passionate about Data Science / Deep Learning / Machine Learning. 📫 How to reach me: zenijat16631@sabah.edu.az
+
 
 <!--
 **NijatZeynalov/NijatZeynalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
